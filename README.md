@@ -64,4 +64,5 @@ Image of Escale
 ![Part3 QUANTIFY](https://github.com/victorcarv16/assets/blob/main/quantify.PNG)
 
 4-With this we will obtain the values ​​of the real area of ​​the terrain, percentage of green area in the terrain, coordinates of the wooded region, total surface area of ​​the trees.
+
 ![Part4 RESULTS](https://github.com/victorcarv16/assets/blob/main/results.PNG)

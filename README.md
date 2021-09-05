@@ -19,7 +19,7 @@
 
 # For this project it will be necessary to upload an image of a wooded location (with green vegetation), and a photo with the respective scale that was used.
 
-## in this project I used the following technologies (libraries):
+## In this project I used the following technologies (libraries):
 <table> 
   <tr>
     <td>Python</td>
@@ -44,8 +44,8 @@
   </tr>
 </table>
 
-# how to use this project?
-## follow the following steps:
+# How to use this project?
+## Follow the following steps:
 1-
 2-
 3-

@@ -48,6 +48,7 @@
 ## Follow the following steps:
 1-Upload image for scale reference (scale factor) taken from the lower right corner of GoogleMaps.
 ![Part1 upload  escale](https://github.com/victorcarv16/assets/blob/main/uploadescala.PNG)
+
 Image of Escale
 ![Part2 upload  escale](https://github.com/victorcarv16/assets/blob/main/escala_20_test.PNG)
 
@@ -58,11 +59,24 @@ Image of Escale
 
 ![Part2 upload image](https://github.com/victorcarv16/assets/blob/main/Condominio1_escala_20.PNG)
 
+2.2-Resume.
+![Part upload archive](https://github.com/victorcarv16/assets/blob/main/Upload%20arquivo.gif)
+
 
 3-Then click on "QUANTIFICAR".
 
 ![Part3 QUANTIFY](https://github.com/victorcarv16/assets/blob/main/quantify.PNG)
 
+3.1-Resume.
+![Part3.1 QUANTIFY](https://github.com/victorcarv16/assets/blob/main/quantify.gif)
+
+
 4-With this we will obtain the values ​​of the real area of ​​the terrain, percentage of green area in the terrain, coordinates of the wooded region, total surface area of ​​the trees.
 
 ![Part4 RESULTS](https://github.com/victorcarv16/assets/blob/main/results.PNG)
+
+5- Results 
+![Part5 center of mass](https://github.com/victorcarv16/assets/blob/main/center%20of%20mass.PNG)
+
+5.1- Results of process
+![Part5 process](https://github.com/victorcarv16/assets/blob/main/process.gif)

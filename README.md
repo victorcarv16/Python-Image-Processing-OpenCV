@@ -1,5 +1,8 @@
 # Python-image processing-Processamento-de-imagem
 <h1> Wooded Area Tracker </h1> 
+
+# With the collaboration of (com a colaboração de): Marcelo Victor
+
 > Status: Developing⚠️
 
 ### PDI image processing programs.

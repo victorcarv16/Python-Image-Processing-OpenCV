@@ -48,7 +48,7 @@
 # How to use this project?
 ## Follow the following steps:
 1-Upload image for scale reference (scale factor) taken from the lower right corner of GoogleMaps.
-![Part1 upload  escale](https://github.com/victorcarv16/assets/blob/main/uploadescala.PNG)
+               ![Part1 upload  escale](https://github.com/victorcarv16/assets/blob/main/uploadescala.PNG)
 
 Image of Escale
 ![Part2 upload  escale](https://github.com/victorcarv16/assets/blob/main/escala_20_test.PNG)
